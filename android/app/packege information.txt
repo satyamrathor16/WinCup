@@ -1,0 +1,3 @@
+bundle ID / package name : com.wincup
+version number: 1.0
+build number: 1
